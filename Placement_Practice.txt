@@ -1,0 +1,47 @@
+                                  Placement Assignment-1
+								
+		Ans1- As we today data is most precious thing that all have data structures are used to store data as per user requirement they 
+              use different data structures, like if they want fast insertion and deletion of data they can use linkdelist etc.		
+			  
+	    Ans2 - Applications of data structure are :
+              a) Stack : Undo opereations , Browsing history
+              b) Queue : Task Scheduling , Data Packets in communication are arranged in queue
+              c) Graph : Finding shortest path , Facebbok Graphs's Api
+              d) Linkedlist :   Web pages link, Music player			  
+			  e) Tree : Database uses tree datastructure for indexing, DNS[Domain Name Server]
+			  f) Hashtable : Data stored in database is key-value pair , Searching on google browser 
+			  
+		Ans3 : Insertion and Deletion is faster in linkedlist as compare to array.
+
+        Ans4 :        // Linkedlist structure in C
+
+        Ans5 : In Doubly linkedList we can move back much faster than singly linkedlist as it contains address of previous and next node.
+
+        Ans6 : Stack => is used to fetch and store data on the top it basically follows LIFO order and if we want any value we have to go through all 
+                complete structure .
+				         - Stack can be used to store different type of data.
+               Array =>  If we know  index value we can fetch data in O(1) time in this searching is index based.				
+			             Array stores homogenious data.  
+						 
+		Ans7 : 2 Queues
+
+        Ans8 : DFS[Depth First Search] - inorder , preorder , postorder
+               BFS [ Breadth First Search] - Level order
+			   
+		Ans9 : Searching in BST is fast because in bst we arrange data in sorted manner left is always smaller than root and right is larger.
+
+        Ans10 : Graph is used for finding shortest path , Connecting with different people Like Facebook used this for building connections etc.
+
+        Ans11 : It is possible if we know the count of nodes but it is not efficient to find middle element everytime in linkedlist because it is always                 
+                 linear search.
+
+        Ans12 : Memory leak in computers is basically a resource leakage[Inefficient usage of memory] that may occur when we have created any object which is no longer used in
+                 program and is not closed .		
+				 
+		Ans13 : If left of root is smaller and right of root is larger than root data.
+
+        Ans14 : Stack due to its LIFO Order beacause recursion remember its caller so knows whom to return when the function has to return result.
+
+        Ans15 : Undo Operations , Browsing History , Infix to postfix etc.
+
+          		
